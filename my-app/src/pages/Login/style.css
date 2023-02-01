@@ -11,7 +11,7 @@ h1 {
   margin-top: 0;
 }
 
-.inputContent {
+.inputs {
   color: white;
   display: flex;
   flex-direction: column;
@@ -28,3 +28,10 @@ button {
   color: white;
 }
 
+.senha {
+  color:white;
+}
+
+h3 {
+  color: whitesmoke;
+}
